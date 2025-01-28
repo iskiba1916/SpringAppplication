@@ -1,1 +1,1 @@
-Jest to aplikacja webowa pisana we FrameWorku Javy - Spring. Jest to projekt aplikacji do obsługi bazy danych Biblioteki realizowany na potrzebay przedmiotu BDBT w semestrze 24Z.
+Jest to aplikacja webowa pisana we frameworku Javy - Spring'u. Jest to projekt aplikacji webowej do obsługi bazy danych Biblioteki, realizowany na potrzeby przedmiotu BDBT w semestrze 24Z.
